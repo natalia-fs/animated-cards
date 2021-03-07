@@ -9,4 +9,6 @@
 * Armazenamento e recuperação de variáveis no Local Storage
 
 # Preview
-![preview da interface](./assets/preview-readme.gif)
+<div align="center">
+    <img src="./src/assets/preview-readme.gif" alt="Preview">
+</div>
